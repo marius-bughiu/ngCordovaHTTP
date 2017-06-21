@@ -2,9 +2,9 @@
   "name": "ngCordovaHTTP",
   "private": false,
   "main": "dist/ng-cordova-http.js",
-  "version": "0.1.5-alpha.1",
+  "version": "0.1.6",
   "repository": {
-    "url": "git://github.com/panta/ngCordovaHTTP.git"
+    "url": "git://github.com/marius-bughiu/ngCordovaHTTP.git"
   },
   "devDependencies": {
   },
